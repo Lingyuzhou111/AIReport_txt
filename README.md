@@ -1,0 +1,2 @@
+# AIReport_txt
+AIReport_txt是一款适用于chatgpt-on-wechat 的新闻资讯类的插件，调用天聚数行的API接口获取带网页链接的文字版新闻资讯。
